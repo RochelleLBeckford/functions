@@ -1,5 +1,7 @@
 <!-- & This creates a banner for the ReadMe -->
-<img src="img/blue-peony-maiden.png" alt="Blue Peony Maiden" width="100%" height="350">
+<div align="center">
+    <img src="img/blue-peony-maiden.png" alt="Blue Peony Maiden" width="90%" height="475">
+</div>
 
 # <p align="center">🌸 Function: JavaScript's Reusable Magic Spell 🌸</p>
 
